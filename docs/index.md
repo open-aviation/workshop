@@ -15,6 +15,14 @@ We will also present a new open-source tool, [tangram](https://github.com/open-a
 | **Location** | Faculty of Aerospace Engineering, TU Delft |
 | **Address**  | Kluyverweg 1, 2629 HS Delft                |
 
+## Registration
+
+Registration is free of charge.  
+However, for logistics purposes, we ask you to kindly register using the 
+[online form](https://forms.gle/4FNvuQbTYm55Wrv99)
+
+
+
 ## Agenda (tentative)
 
 The current agenda is still subject to minor adjustments.  
@@ -60,5 +68,5 @@ Xavier Olive, Junzi Sun
 ## Registration
 
 Registration is free of charge.  
-However, for logistics purposes, we ask you to kindly register on the
-[following form](https://forms.gle/4FNvuQbTYm55Wrv99)
+However, for logistics purposes, we ask you to kindly register using the 
+[online form](https://forms.gle/4FNvuQbTYm55Wrv99)
