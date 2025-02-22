@@ -58,4 +58,4 @@ Xavier Olive, Junzi Sun
 
 Registration is free of charge.  
 However, for logistics purposes, we ask you to kindly register on the
-[following form]()
+[following form](https://forms.gle/4FNvuQbTYm55Wrv99)
