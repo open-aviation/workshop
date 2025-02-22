@@ -3,6 +3,7 @@ site_description: 2nd workshop on open-science in aviation (tangram workshop)
 site_url: https://mode-s.org/workshop/
 nav:
   - Home: "readme.md"
+  - Registration: https://forms.gle/4FNvuQbTYm55Wrv99
 theme:
   name: material
   palette:
