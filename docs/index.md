@@ -18,8 +18,8 @@ We will also present a new open-source tool, [tangram](https://github.com/open-a
 ## Registration
 
 The workshop is free of charge.  
-However, for logistics purposes, we ask you to kindly register using the 
-[online form](https://forms.gle/4FNvuQbTYm55Wrv99)
+However, for logistics purposes, we ask you to kindly register using 
+[the online form](https://forms.gle/4FNvuQbTYm55Wrv99).
 
 
 
@@ -68,5 +68,5 @@ Xavier Olive, Junzi Sun
 ## Registration
 
 The workshop is free of charge.  
-However, for logistics purposes, we ask you to kindly register using the 
-[online form](https://forms.gle/4FNvuQbTYm55Wrv99)
+However, for logistics purposes, we ask you to kindly register using 
+[the online form](https://forms.gle/4FNvuQbTYm55Wrv99).
