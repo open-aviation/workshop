@@ -58,11 +58,13 @@ Gerald Gurtner (University of Westminster)
 _(hands-on session)_  
 Junzi Sun, Xavier Olive
 
-### Unofficial social/dinner gathering (TBD)
+### Unofficial dinner gathering downtown
+
+(self-financed)
 
 ### Day 2 · Part 3 – Real-time aviation data analysis
 
-9:00–12:00 – **tangram: aviation data analysis on real-time data**  
+9:00 – **tangram: aviation data analysis on real-time data**  
 Xavier Olive, Junzi Sun
 
 ## Registration
