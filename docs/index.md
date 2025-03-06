@@ -1,4 +1,4 @@
-# 2nd workshop on open-science in aviation 🌷 tangram
+# 2nd workshop on open science in aviation 🌷 tangram
 
 We are pleased to **announce the 2nd edition of this workshop** on 3 and 4 April 2025 in TU Delft 🇳🇱 (The Netherlands), following the success of the [1st workshop on open-source tools for air traffic
 management and research](https://blog.westminster.ac.uk/atm-team/open-source-tools-activities/) on [mercury](https://blog.westminster.ac.uk/atm-team/wp-content/uploads/sites/114/2025/01/2024-11-Mercury_tutorial_workshop.pdf) open-source tool.
@@ -18,7 +18,7 @@ We will also present a new open-source tool, [tangram](https://github.com/open-a
 ## Registration
 
 The workshop is free of charge.  
-However, for logistics purposes, we ask you to kindly register using 
+However, for logistics purposes, we ask you to register using 
 [the online form](https://forms.gle/4FNvuQbTYm55Wrv99).
 
 
@@ -49,10 +49,10 @@ Xavier Olive (ONERA)
 ### Day 1 · Part 2 – Open data in aviation
 
 The afternoon consists of two hands-on sessions. 
-Laptops are sufficient (an internet connection will be avaiable), and basic knowledge of Python for data science is expected.
+Laptops are sufficient (an internet connection will be available), and basic knowledge of Python for data science is expected.
 
 13:00 – **A tour through aviation sources of data** _(hands-on session)_  
-Tatjana Bolic (University of Westminster)
+Gerald Gurtner (University of Westminster)
 
 15:00 – **Around OpenSky Network data: what is available and what is not?**
 _(hands-on session)_  
@@ -68,5 +68,5 @@ Xavier Olive, Junzi Sun
 ## Registration
 
 The workshop is free of charge.  
-However, for logistics purposes, we ask you to kindly register using 
+However, for logistics purposes, we ask you to register using 
 [the online form](https://forms.gle/4FNvuQbTYm55Wrv99).
