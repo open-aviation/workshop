@@ -32,17 +32,17 @@ Abstracts of presentations will be announced soon.
 
 09:00 – Welcome Coffee
 
-09:30 – **Welcome and Keynote**
-Jacco Hoekstra
+09:30 – **Welcome and Keynote**  
+Jacco Hoekstra (TU Delft)
 
 10:00 – **Open science in aviation, where are we now?**  
-Junzi Sun
+Junzi Sun (TU Delft)
 
-10:30 – **Good practices for open-science**  
-TBD
+10:30 – **Good practices for open science**  
+Tanya Yankelevich (TU Delft Open Science Community)
 
 11:00 – **How to open your code when part of it cannot be shared ?**  
-Xavier Olive
+Xavier Olive (ONERA)
 
 ### Lunch (12:00-13:00)
 
@@ -52,7 +52,7 @@ The afternoon consists of two hands-on sessions. They will run on... (Google
 Colab?) A computer with a working Internet capability (an Internet connection will be provided) and basic knowledge of Python for data science (_list libraries_) and... ? is expected.
 
 13:00 – **A tour through aviation sources of data** _(hands-on session)_  
-Tatjana Bolic
+Tatjana Bolic (University of Westminster)
 
 15:00 – **Around OpenSky Network data: what is available and what is not?**
 _(hands-on session)_  
