@@ -48,8 +48,8 @@ Xavier Olive (ONERA)
 
 ### Day 1 · Part 2 – Open data in aviation
 
-The afternoon consists of two hands-on sessions. They will run on... (Google
-Colab?) A computer with a working Internet capability (an Internet connection will be provided) and basic knowledge of Python for data science (_list libraries_) and... ? is expected.
+The afternoon consists of two hands-on sessions. 
+Laptops are sufficient (an internet connection will be avaiable), and basic knowledge of Python for data science is expected.
 
 13:00 – **A tour through aviation sources of data** _(hands-on session)_  
 Tatjana Bolic (University of Westminster)
@@ -58,7 +58,7 @@ Tatjana Bolic (University of Westminster)
 _(hands-on session)_  
 Junzi Sun, Xavier Olive
 
-### Social event (TBD)
+### Unofficial social/dinner gathering (TBD)
 
 ### Day 2 · Part 3 – Real-time aviation data analysis
 
