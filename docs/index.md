@@ -32,17 +32,19 @@ Abstracts of presentations will be announced soon.
 
 09:00 – Welcome Coffee
 
-09:30 – **Welcome and Keynote**  
+09:30 – 10:00 **Welcome and Keynote**  
 Jacco Hoekstra (TU Delft)
 
-10:00 – **Open science in aviation, where are we now?**  
+10:00 – 10:30 **Open science in aviation, where are we now?**  
 Junzi Sun (TU Delft)
 
-10:30 – **Good practices for open science**  
+10:30 – 11:00 **Good practices for open science**  
 Tanya Yankelevich (TU Delft Open Science Community)
 
-11:00 – **How to open your code when part of it cannot be shared ?**  
+11:00 – 11:30 **How to open your code when part of it cannot be shared ?**  
 Xavier Olive (ONERA)
+
+11:30 - 12:00 **Talks from the community**
 
 ### Lunch (12:00-13:00)
 
@@ -51,15 +53,15 @@ Xavier Olive (ONERA)
 The afternoon consists of two hands-on sessions. 
 Laptops are sufficient (an internet connection will be available), and basic knowledge of Python for data science is expected.
 
-13:00 – **A tour through aviation sources of data** _(hands-on session)_  
+13:00 – 14:30 **A tour through aviation sources of data**  
+_(hands-on session)_  
 Gerald Gurtner (University of Westminster)
 
-15:00 – **Around OpenSky Network data: what is available and what is not?**
+15:00 – 16:30 **Around OpenSky Network data: what is available and what is not?**  
 _(hands-on session)_  
 Junzi Sun, Xavier Olive
 
 ### Unofficial dinner gathering downtown
-
 (self-financed)
 
 ### Day 2 · Part 3 – Real-time aviation data analysis
