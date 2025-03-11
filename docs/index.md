@@ -14,6 +14,7 @@ We will also present a new open-source tool, [tangram](https://github.com/open-a
 | **Date**     | **3–4 April 2025** (Thu + Fri)             |
 | **Location** | Faculty of Aerospace Engineering, TU Delft |
 | **Address**  | Kluyverweg 1, 2629 HS Delft                |
+| **Rooms**    | Lecture room K (**Day 1**)  &  Lecture room H (**Day 2**) |
 
 ## Registration
 
