@@ -75,3 +75,9 @@ Xavier Olive, Junzi Sun
 The workshop is free of charge.  
 However, for logistics purposes, we ask you to register using 
 [the online form](https://forms.gle/4FNvuQbTYm55Wrv99).
+
+## Contacts
+
+If you have any questions, please feel free to contact:
+- j.sun-1@tudelft.nl
+- xavier.olive@onera.fr
