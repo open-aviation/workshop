@@ -47,6 +47,8 @@ Xavier Olive (ONERA)
 
 11:30 - 12:00 **Talks from the community**
 
+- A large-scale and open-source dataset of aircraft interactions - Raúl López-Martín (IFISC)
+
 ### Lunch (12:00-13:00)
 
 ### Day 1 · Part 2 – Open data in aviation
