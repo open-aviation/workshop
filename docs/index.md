@@ -69,8 +69,13 @@ Junzi Sun, Xavier Olive
 
 ### Day 2 · Part 3 – Real-time aviation data analysis
 
-9:00 – **tangram: aviation data analysis on real-time data**  
-Xavier Olive, Junzi Sun
+9:00 – 12:00 **tangram: aviation data analysis on real-time data**  
+_(presentation, demo, and live coding with tangram)_  
+Xavier Olive, Junzi Sun  
+
+### Lunch (12:00-13:00)
+
+### 13:00 End of the workshop
 
 ## Registration
 
