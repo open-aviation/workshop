@@ -48,6 +48,7 @@ Xavier Olive (ONERA)
 11:30 - 12:00 **Talks from the community**
 
 - A large-scale and open-source dataset of aircraft interactions - Raúl López-Martín (IFISC)
+- Creating open collaborative coverage maps at drone operating altitudes - Morten Larsen (AnyWi)
 
 ### Lunch (12:00-13:00)
 
