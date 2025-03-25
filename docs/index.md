@@ -45,7 +45,7 @@ Tanya Yankelevich (TU Delft Open Science Community)
 11:00 – 11:30 **How to open your code when part of it cannot be shared ?**  
 Xavier Olive (ONERA)
 
-11:30 - 12:00 **Talks from the community**
+11:30 - 12:00 **Talks from the participants**
 
 - A large-scale and open-source dataset of aircraft interactions - Raúl López-Martín (IFISC)
 - Creating open collaborative coverage maps at drone operating altitudes - Morten Larsen (AnyWi)
