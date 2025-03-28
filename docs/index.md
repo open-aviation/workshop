@@ -40,7 +40,7 @@ Jacco Hoekstra (TU Delft)
 Junzi Sun (TU Delft)
 
 10:30 – 11:00 **Good practices for open science**  
-Tanya Yankelevich (TU Delft Open Science Community)
+Heather Andrews Mancilla (TU Delft / Aerospace Engineering)
 
 11:00 – 11:30 **How to open your code when part of it cannot be shared ?**  
 Xavier Olive (ONERA)
