@@ -31,7 +31,9 @@ Abstracts of presentations will be announced soon.
 
 ### Day 1 · Part 1 – Open science in aviation
 
-09:00 – Welcome Coffee
+08:45 - 09:20 – Coffee
+
+09:20 - 09:30 - Agenda and logistics (Junzi Sun)
 
 09:30 – 10:00 **Welcome and Keynote**  
 Jacco Hoekstra (TU Delft)
@@ -41,6 +43,8 @@ Junzi Sun (TU Delft)
 
 10:30 – 11:00 **Good practices for open science**  
 Heather Andrews Mancilla (TU Delft / Aerospace Engineering)
+
+(Short break)
 
 11:00 – 11:30 **How to open your code when part of it cannot be shared ?**  
 Xavier Olive (ONERA)
