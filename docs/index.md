@@ -63,7 +63,7 @@ Laptops are sufficient (an internet connection will be available), and basic kno
 
 13:00 – 14:30 **A tour through aviation sources of data**  
 _(hands-on session)_  
-Gerald Gurtner (University of Westminster)
+Tatjana Bolic (University of Westminster)
 
 15:00 – 16:30 **Around OpenSky Network data: what is available and what is not?**  
 _(hands-on session)_  
