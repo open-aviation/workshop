@@ -4,6 +4,7 @@ site_url: https://mode-s.org/workshop/
 nav:
   - Home: "readme.md"
   - Registration: https://forms.gle/4FNvuQbTYm55Wrv99
+  - Presentations: https://surfdrive.surf.nl/files/index.php/s/CdWybBleVlg7nna
 theme:
   name: material
   palette:
