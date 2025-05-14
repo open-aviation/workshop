@@ -3,9 +3,13 @@
 We are pleased to **announce the 2nd edition of this workshop** on 3 and 4 April 2025 in TU Delft 🇳🇱 (The Netherlands), following the success of the [1st workshop on open-source tools for air traffic
 management and research](https://blog.westminster.ac.uk/atm-team/open-source-tools-activities/) on [mercury](https://blog.westminster.ac.uk/atm-team/wp-content/uploads/sites/114/2025/01/2024-11-Mercury_tutorial_workshop.pdf) open-source tool.
 
-The workshop aims at discussing and sharing experiences in making aviation research more open and accessible.
+The workshop aims to discuss and share experiences in making aviation research more open and accessible.
 
 We will also present a new open-source tool, [tangram](https://github.com/open-aviation/tangram), which is a modular framework for real-time data analysis and visualization.
+
+## Presentations
+All the presentations for the workshop can be downloaded from [this shared folder](https://surfdrive.surf.nl/files/index.php/s/CdWybBleVlg7nna).
+
 
 ## Logistics
 
@@ -21,7 +25,6 @@ We will also present a new open-source tool, [tangram](https://github.com/open-a
 The workshop is free of charge.  
 However, for logistics purposes, we ask you to register using 
 [the online form](https://forms.gle/4FNvuQbTYm55Wrv99).
-
 
 
 ## Agenda (tentative)
